@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = saflchewis@live.com
+	name = sebastian flores
